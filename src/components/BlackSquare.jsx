@@ -4,7 +4,8 @@ const BlackSquare = ({ size }) => {
       style={{
         width: `${size}px`,
         height: `${size}px`,
-        backgroundColor: '#000'
+        backgroundColor: '#000',
+        borderRadius: '10px'
       }} 
     />
   )
