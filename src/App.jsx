@@ -1,4 +1,3 @@
-import './App.css'
 import BlackSquare from './components/BlackSquare'
 
 function App() {
